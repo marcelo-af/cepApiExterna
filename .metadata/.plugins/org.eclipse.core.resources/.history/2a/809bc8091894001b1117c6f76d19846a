@@ -1,0 +1,5 @@
+package com.consumo.apiexterna.rest;
+
+public class CepRestService {
+
+}

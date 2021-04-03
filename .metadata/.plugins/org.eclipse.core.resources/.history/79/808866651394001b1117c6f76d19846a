@@ -1,0 +1,5 @@
+package com.consumo.apiexterna.model;
+
+public class Endereco {
+
+}
